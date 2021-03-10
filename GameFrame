@@ -10,6 +10,10 @@ public class GameFrame extends JFrame{
 	//create new instance of game panel
 	GamePanel panel = new GamePanel();
 	
+	//check
+	while(int i =0; i++){
+	do something
+	}
 	//constructor
 	GameFrame(){
 		
